@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Chicken Fried Rice",
+    "description": "A classic Asian lunch favorite, chicken fried rice is a delicious and satisfying dish.",
+    "ingredients": ["2 cups cooked rice", "200 g chicken breast", "1 cup mixed vegetables (such as peas, carrots, and bell peppers)", "2 eggs"],
+    "time": 20,
+    "calories": 380,
+    "image": "https://images.pexels.com/photos/3926124/pexels-photo-3926124.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Vegetable Stir Fry",
+    "description": "Fresh and flavorful, vegetable stir fry is a quick and healthy Asian lunch option.",
+    "ingredients": ["2 cups mixed vegetables (such as broccoli, bell peppers, and snap peas)", "2 cloves garlic, minced", "1 tablespoon ginger, minced", "2 tablespoons soy sauce"],
+    "time": 15,
+    "calories": 250,
+    "image": "https://images.pexels.com/photos/262897/pexels-photo-262897.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Tofu and Vegetable Soup",
+    "description": "Warm and comforting, tofu and vegetable soup is a nourishing Asian lunch option.",
+    "ingredients": ["300 g firm tofu, cubed", "1 cup sliced mushrooms", "2 cups leafy greens (such as spinach or bok choy)", "4 cups vegetable broth"],
+    "time": 30,
+    "calories": 180,
+    "image": "https://images.pexels.com/photos/8982387/pexels-photo-8982387.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Dumplings",
+    "description": "Satisfy your cravings with these delicious dumplings, a popular Asian lunch choice.",
+    "ingredients": ["250 g ground chicken", "1 tablespoon ginger, minced", "2 cloves garlic, minced", "2 green onions, chopped"],
+    "time": 25,
+    "calories": 320,
+    "image": "https://images.pexels.com/photos/6646198/pexels-photo-6646198.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Teriyaki Tofu Bowl",
+    "description": "Healthy and flavorful, teriyaki tofu bowl is a satisfying Asian lunch option.",
+    "ingredients": ["300 g firm tofu, cubed", "1/4 cup teriyaki sauce", "2 cups steamed rice", "2 cups steamed broccoli and carrots"],
+    "time": 35,
+    "calories": 300,
+    "image": "https://images.pexels.com/photos/6646244/pexels-photo-6646244.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Vegetable Spring Rolls",
+    "description": "Light and crunchy, vegetable spring rolls are a delicious Asian lunch option.",
+    "ingredients": ["6 rice paper wrappers", "1 cup shredded carrots", "1 cup cucumber, julienned", "2 cups lettuce leaves"],
+    "time": 20,
+    "calories": 200,
+    "image": "https://images.pexels.com/photos/12103073/pexels-photo-12103073.jpeg"
+  }
+]
